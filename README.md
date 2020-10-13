@@ -49,16 +49,39 @@ Functions
 
   * return statement and parameters list are optional
   
+
+
+  
    some basic built in python funtions
    --------------------------
-   * print()
-   * len()
-   * str()
-   * int()
-   * float()
-   * input() 
+   * print() - used to print an object or text 
+          
+           print("Hello World!..") # will print 'Hello World!..' 
+
+   * len()   - return the length of an object 
+
+           len("Python") # will return  '6'
+
+   * str()   - Takes an object and returns a new object as datatype 'String'
+
+           str("123") # will return '123' as string
+
+   * int()   - takes an object and returns a object as datatype 'int'
+
+           int(input("value of X")) # retruns the input value as integer
+
+   * float() - takes an object and returns a object as datatype 'float'
+
+           float(input(enter value of X )) #returns input value as floating point value
+
+   * input()  - capture inputs 
+
+               a = input() # read input to a
+
 
    find more python built-in functions at : https://docs.python.org/3/library/functions.html
 
-   --------------------------------------------------------------------------------
+   ------------------------------------------------------------------------------------------------
+
+   
    
