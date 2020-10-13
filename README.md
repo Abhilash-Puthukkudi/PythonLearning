@@ -34,10 +34,20 @@ ________________________
 * List
 * Dict
 * Tuple
+----------------------------------------------
+
+Functions
+----------------------------------------------
+ * functions allow you to reuse functionality 
+ 
+ syntax
+ -------
+        def function_Name( prameter_list ) :
+           #function_body
+           return varible
 
 
-
-
-
-
+  * return statement and parameters list are optional
+  
+  
 
