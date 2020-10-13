@@ -49,5 +49,16 @@ Functions
 
   * return statement and parameters list are optional
   
-  
+   some basic built in python funtions
+   --------------------------
+   * print()
+   * len()
+   * str()
+   * int()
+   * float()
+   * input() 
 
+   find more python built-in functions at : https://docs.python.org/3/library/functions.html
+
+   --------------------------------------------------------------------------------
+   
