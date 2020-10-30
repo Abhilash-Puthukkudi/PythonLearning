@@ -83,5 +83,22 @@ Functions
 
    ------------------------------------------------------------------------------------------------
 
+   Exception Handling
+   ---------------------------------------
+   * A way to deal with exceptions when they occur
    
-   
+   Eg:
+        a= int(input("type a number"))
+        b= int(input("type another"))
+        print(a/b)
+
+        * this program will successfully run  if the second number(b) is not 0
+        * if the second number is zero then it will cause division by zero exception
+
+            exception handling :
+              
+                  try:
+                    print(a/b)
+                   except ZeroDivisionError:
+                    print("b cannot be zero")
+        
